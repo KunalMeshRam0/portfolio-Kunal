@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    height: 50px;
+}
+
+/*header*/
+header{
+    width: 100%;
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+header .header-left-div {
+    
+}
+header .header-left-div  {
+    font-size: 20px;
+    
+}
+header .header-right-div{
+    display: flex;
+    bottom: 10px;
+}
+header .header-right-div a {
+    padding: 10px;
+    color: white;
+    font-size: 15px;
+    margin: 8px 17px;
+}
+
+
+
+/*main*/
+
+
+
+
+/*footer*/
